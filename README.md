@@ -1,45 +1,119 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios do LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno               |
+| ---------- | ------------------- |
+| 20/2017700 | Lucas Soares Barros |
+
+## Sobre
+
+Resoluções de questões de níveis variados (Médio e Difícil) contemplando os conteúdos aprendidos em sala de aula sobre Programação Dinâmica.
+
+## Questões
+
+| Nome                                                                                                                   | Nível   |
+| ---------------------------------------------------------------------------------------------------------------------- | ------- |
+| [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)                          | Média   |
+| [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)                                       | Difícil |
+| [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) | Difícil |
+
+## Vídeo
+
+[Explicação]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)
 
-## Uso 
+Explicação:
+
+![]()<br>
+
+Caso 1:
+
+![]()<br>
+
+Caso 2:
+
+![]()<br>
+
+### [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
+
+Explicação:
+
+![]()<br>
+
+Caso 1:
+
+![]()<br>
+
+Caso 2:
+
+![]()<br>
+
+Caso 3:
+
+![]()<br>
+
+### [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
+
+Explicação:
+
+![]()<br>
+![]()<br>
+
+Caso 1:
+
+![]()<br>
+
+Caso 2:
+
+![]()<br>
+
+Caso 3:
+
+![]()<br>
+
+## Instalação
+
+**Linguagem**: C#<br>
+**Framework**: N/A<br>
+**Executando Código em C# no Computador**
+
+**Passo 1**: Instalar o .NET SDK
+
+1. Acesse o site oficial do .NET: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download).
+2. Baixe e instale a versão mais recente do **.NET SDK** para o seu sistema operacional.
+3. Após a instalação, verifique se foi instalado corretamente abrindo o terminal ou prompt de comando e digitando:
+   ```bash
+   dotnet --version
+   ```
+
+**Passo 2**: Executar o Código em C#
+
+```
+ 1. Crie uma nova pasta para o projeto (opcional)
+mkdir MeuProjeto
+cd MeuProjeto
+
+2. Inicialize um novo projeto de console em C#
+dotnet new console -o CanVisitAllRooms
+cd CanVisitAllRooms
+
+3. Abra o arquivo Program.cs e substitua o conteúdo por 1 dos 4 códigos das atividades disponíveis.
+
+4. Compile e execute o projeto
+dotnet run
+```
+
+## Uso
+
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
