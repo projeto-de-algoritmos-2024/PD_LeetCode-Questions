@@ -15,10 +15,10 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Questões
 
-| Nome                                                                                                                   | Nível   |
-| ---------------------------------------------------------------------------------------------------------------------- | ------- |
-| [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)                          | Média   |
-| [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)                                       | Difícil |
+| Nome                                                                                                                          | Nível   |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/)                                 | Média   |
+| [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)                                              | Difícil |
 | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) | Difícil |
 
 ## Vídeo
@@ -35,11 +35,11 @@ Explicação:
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case1_last.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case2_last.png)<br>
 
 ### [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/)
 
@@ -49,15 +49,15 @@ Explicação:
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case1_superegg.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case2_superegg.png)<br>
 
 Caso 3:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case3_superegg.png)<br>
 
 ### [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/)
 
@@ -68,15 +68,15 @@ Explicação:
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case1_minimum.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case2_minimum.png)<br>
 
 Caso 3:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/case3_minimum.png)<br>
 
 ## Instalação
 
