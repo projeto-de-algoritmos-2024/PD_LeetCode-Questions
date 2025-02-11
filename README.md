@@ -23,7 +23,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Vídeo
 
-[Explicação]()
+[Explicação](https://youtu.be/10YqMGABfU4)
 
 ## Screenshots
 
