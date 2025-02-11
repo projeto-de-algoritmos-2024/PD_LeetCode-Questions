@@ -31,7 +31,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/exp_last.png)<br>
 
 Caso 1:
 
@@ -45,7 +45,7 @@ Caso 2:
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/exp_superegg.png)<br>
 
 Caso 1:
 
@@ -63,8 +63,8 @@ Caso 3:
 
 Explicação:
 
-![]()<br>
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/exp1_minimum.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/PD_LeetCode-Questions/blob/master/assets/exp2_minimum.png)<br>
 
 Caso 1:
 
